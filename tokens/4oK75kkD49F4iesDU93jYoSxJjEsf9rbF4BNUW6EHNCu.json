@@ -1,0 +1,11 @@
+{
+  "address": "4oK75kkD49F4iesDU93jYoSxJjEsf9rbF4BNUW6EHNCu",
+  "symbol": "DEV",
+  "name": "DevelCoin",
+  "decimals": 9,
+  "logoURI": "https://develcoin.online/public/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://develcoin.online"
+    } 
+}
